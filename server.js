@@ -56,5 +56,5 @@ app.get("/division", (req, res) => {
 });
 
 app.listen(3000, () => {
-  console.log("Calculator listening on port 3000");
+  console.log("Calculator microservice listening on port 3000");
 });
